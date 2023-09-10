@@ -7,7 +7,7 @@ int main(){
             break;
         }
         cout<<"go out today!"<<endl;
-        pocketmoney=pocketmoney-5;
+        pocketmoney=pocketmoney-6;
     }
     return 0;
 }
